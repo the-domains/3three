@@ -1,0 +1,14 @@
+layout_spectrum: 0.6085059
+typography_spectrum: 0.1463685
+color:
+  saturation: 0.9704291
+  lightness: 0.191387
+  brandStrength: 0.1632991
+  rhythmicContrast: 0.1677232
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: 3three
